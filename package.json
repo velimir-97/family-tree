@@ -8,12 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/vue-fontawesome": "^0.1.7",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0",
     "core-js": "^2.6.5",
-    "jsplumb": "^2.11.2",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3"
+    "vue-router": "^3.0.3",
+    "vue-tree-chart": "^1.2.6",
+    "vuejs-datepicker": "^1.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",

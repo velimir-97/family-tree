@@ -4,7 +4,7 @@
 
  
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">F0nk1t0wn © 2019 Copyright
+  <div class="footer-copyright bg-dark text-white text-center py-4">Created in 2019 by ABV
   </div>
   <!-- Copyright -->
 

@@ -7,6 +7,7 @@ import Index from "./Index.vue"
 import Login from "./common/Login.vue"
 import Register from "./common/Register.vue"
 import New from "./New.vue"
+import MyTree from "./MyTree.vue"
 
 
 Vue.use(Router)
@@ -48,6 +49,15 @@ export default new Router({
 			components: {
 				header: AppHeader,
 				default: New,
+				footer: AppFooter
+			}
+		},
+		{
+			path: "/my-tree",
+			name: "My Tree",
+			components: {
+				header: AppHeader,
+				default: MyTree,
 				footer: AppFooter
 			}
 		},
