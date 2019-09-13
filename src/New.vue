@@ -10,7 +10,7 @@
 
 <script>
 import Person from "./common/Person"
-import jsplumb from 'jsplumb'
+// import jsplumb from 'jsplumb'
 
 export default {
 	components: {
@@ -108,14 +108,15 @@ export default {
 
 	}
 },
+
 mounted(){
-	jsPlumb.ready(function() {
-				jsPlumb.connect({
-						source:"0",
-						target:"1",
-						endpoint: "none"
-				})
-		})
+	// jsPlumb.ready(function() {
+	// 	jsPlumb.connect({
+	// 		source:"0",
+	// 		target:"1",
+	// 		endpoint: "none"
+	// 	})
+	// })
 	}
 }
 </script>
