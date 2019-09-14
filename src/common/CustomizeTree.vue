@@ -68,9 +68,16 @@
 						</div>
 						<select class="custom-select" id="inputGroupSelect01">
 							<option selected disabled>Choose...</option>
-							<option value="1">Bruce Wayne</option>
-							<option value="2">Martha Wayne</option>
-							<option value="3">Batman</option>
+							<option value="1">Patric Wayne</option>
+							<option value="2">Laura Wayne</option>
+							<option value="3">Martha Wayne</option>
+							<option value="4">Thomas Wayne</option>
+							<option value="5">Bruce Wayne</option>
+							<option value="6">John Wayne</option>
+							<option value="7">Ruzha Wayne</option>
+							<option value="8">Atanas Wayne</option>
+							<option value="9">Boris Wayne</option>
+							<option value="10">Velimir Wayne</option>
 						</select>
 					</div>
 				</div>
